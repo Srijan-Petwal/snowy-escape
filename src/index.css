@@ -1,0 +1,147 @@
+html,body,#root{
+    margin: 0;
+    overflow: hidden;
+    position: fixed;
+}
+canvas{
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+.interface-container{
+  width: 100vw;
+  height: 100vh;
+  /* backdrop-filter: invert(30%); */
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  font-family: "Kranky", serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+.timer{
+  position:absolute;
+  color: #65c901;
+  top: 15%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 6vh;
+  background-color:  #dcedc811;
+  font-weight:900;
+}
+
+.restart{
+  position: absolute;
+  bottom: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  font-size: 8vh;
+  background-color:rgba(125, 150, 207, 0.112); 
+  padding-top: 10px;
+  cursor: pointer;
+  pointer-events:all;
+}
+
+/* .restart-active{
+  visibility:visible;
+}
+.restart-inactive{
+  visibility: hidden;
+} */
+
+.restart:hover{
+  color: rgb(0, 138, 180);
+  backdrop-filter:blur(3px);
+}
+.start{
+  backdrop-filter: blur(3px);
+  position: absolute;
+  bottom: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color:#05360d;
+  font-weight: 900;
+  font-size: 10vh;
+  /* background-color:rgba(9, 32, 65, 0.792);  */
+  padding-top: 10px;
+  cursor: pointer;
+  pointer-events:all;
+  text-shadow: 0px 2px 15px rgba(167, 229, 199, 0.947);
+}
+
+/* .restart-active{
+  visibility:visible;
+}
+.restart-inactive{
+  visibility: hidden;
+} */
+
+.start:hover{
+  color: rgb(11, 117, 247);
+  backdrop-filter:blur(1px);
+}
+
+.controls{
+  font-family: monospace;
+  
+  position:absolute;
+  bottom: 10%;
+  left: 0;
+  width: 100%;
+}
+.controls .raw{
+  
+  display: flex;
+  justify-content: center;
+}
+.controls .key{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  width: 40px;
+  height: 40px;
+  margin: 4px;
+  border: 2px solid rgba(245, 245, 245, 0.593);
+  background: rgba(255, 255, 255, 0.121);
+}
+
+.controls .space{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  width: 200px;
+}
+
+.controls .key.active{
+  border: 2px solid rgba(245, 245, 245, 0.915);
+  background: rgba(172, 213, 199, 0.611);
+  /* backdrop-filter: invert(20%); */
+}
+.loading-screen{
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2;
+  background-color: black;
+  text-align: center;
+  font-family: "Kranky",monospace;
+  font-size: 10vh;
+  font-weight: 900;
+  color: #02820f;
+}
+
+
+
+
