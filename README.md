@@ -62,7 +62,7 @@ I also learned:
 ## 📦 Installation (for local dev)
 
 ```bash
-git clone https://github.com/srijan123/snowy-escape.git
+git clone https://github.com/Srijan-Petwal/snowy-escape.git
 cd snowy-escape
 npm install
 npm run dev
