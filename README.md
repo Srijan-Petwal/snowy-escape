@@ -1,8 +1,8 @@
 # ❄️ Snowy Escape
 
 ![Snowy Escape Banner](images/GamePlay-gif.gif) <!-- Replace with your own GIF or banner -->
-
-> 🕹️ **My first fully-playable 3D game** built using cutting-edge web technologies.  
+>[!IMPORTANT]
+>  **My first fully-playable 3D game** built using cutting-edge web technologies.  
 > Dive into a chilly, immersive world — all from your browser!
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Frontend | 3D & Assets | Other Tools |
 |----------|-------------|-------------|
@@ -55,9 +55,13 @@ I also learned:
 
 ---
 ## Expansions, Updates and Patches
->[!NOTE]
->I am learning quite a bit of stuff right now😓 but I do plan to expand it.
->Will get back to it after I finish my current projects.
+> [!NOTE]
+>
+> I understand the current issues and what's causing them — thanks to the valuable feedback I’ve received (truly grateful!😄).
+>
+> I am learning quite a bit of stuff right now😓 but I do plan to expand and patch it.
+>
+> Will definitely get back to it after I finish my current projects.
 ---
 
 ## 📦 Installation (for local dev)
