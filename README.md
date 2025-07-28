@@ -32,7 +32,7 @@
 ---
 
 ## 🧠 Behind the Scenes
-
+>[!IMPORTANT]
 > This was my first big dive into **React Three Fiber**, **Blender workflows**, and **web-based game design**.  
 > All the models used are under free-use licenses and credit goes to their respective owners, All I did was optimized and exported them as GLTF, and integrated them into the scene using R3F.
 
@@ -55,6 +55,7 @@ I also learned:
 
 ---
 ## Expansions, Updates and Patches
+>[!NOTE]
 >I am learning quite a bit of stuff right now😓 but I do plan to expand it.
 >Will get back to it after I finish my current projects.
 ---
