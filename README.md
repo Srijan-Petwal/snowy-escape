@@ -59,8 +59,7 @@ I also learned:
 >
 > I understand the current issues and what's causing them — thanks to the valuable feedback I’ve received (truly grateful!😄).
 >
-> I am learning quite a bit of stuff right now😓 but I do plan to expand and patch it.
->
+> I do plan to patch and expand it. But I am learning quite a bit of stuff right now😓.
 > Will definitely get back to it after I finish my current projects.
 ---
 
