@@ -4,6 +4,7 @@
 >[!IMPORTANT]
 >  **My first fully-playable 3D game** built using cutting-edge web technologies.  
 > Dive into a chilly, immersive world — all from your browser!
+>
 > The current version requires **keyboard controls**. Touch support may be added in the future.  
 > For now, please use a **laptop or tablet with a keyboard** for the best experience.
 ---
